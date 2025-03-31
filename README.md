@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm AAYUSH KHOLAY</h1>
-<h3 align="center">A passionate about Data Analysis and Visualization.</h3>
+<h1 align="center">Hi 👋, I'm Aayush Kholay</h1>
+<h3 align="center">Data Analysis and Visualization</h3>
 
 
 <p align="left">
