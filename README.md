@@ -31,3 +31,14 @@ Welcome to my page! I'm into data analysis and visualization.
 - [![Tableau](https://img.shields.io/badge/Tableau%20Vizzes-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aayush.kholay/vizzes)
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kholay47&theme=default&show_icons=true&hide_border=false&count_private=false" alt="Kholay47's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kholay47&theme=default&hide_border=false" alt="Kholay47's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholay47&theme=default&show_icons=true&hide_border=false&layout=compact" alt="Kholay47's Top Languages" />
+</div>
+
+
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kholay47/Kholay47/output/github-snake.svg" alt="snake gif" />
+</div>
