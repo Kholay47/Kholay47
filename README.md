@@ -4,6 +4,8 @@
 
 - Welcome to my page! I'm into data analysis and visualization.
 
+---
+
 ## 🔥 Skills & Tech Stack
 
 ### 📌 Programming
@@ -23,6 +25,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+---
+
 ## 💼 My Work
 
 ### 📁 GitHub
@@ -30,6 +34,8 @@
 
 ### 📊 Tableau Visualizations
   [![Tableau](https://img.shields.io/badge/Tableau%20Vizzes-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aayush.kholay/vizzes)
+
+---
 
 ## 📬 Connect with Me
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushkholay@gmail.com)
