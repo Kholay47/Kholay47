@@ -32,7 +32,6 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kholay47&theme=default&show_icons=true&hide_border=false&count_private=false" alt="Kholay47's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kholay47&theme=default&hide_border=false" alt="Kholay47's Streak" />
 </div>
 
