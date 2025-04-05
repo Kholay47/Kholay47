@@ -2,7 +2,7 @@
 
 ## 📊 Data Analysis and Visualization
 
-Welcome to my page! I'm into data analysis and visualization.
+- Welcome to my page! I'm into data analysis and visualization.
 
 ## 🔥 Skills & Tech Stack
 
