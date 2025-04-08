@@ -42,12 +42,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kholay)  
 
 ---
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kholay47&theme=default&hide_border=false" alt="Kholay47's Streak" />
-</div>
 
-
----
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kholay47/Kholay47/output/github-snake.svg" alt="snake gif" />
 </div>
