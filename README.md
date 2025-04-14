@@ -12,7 +12,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 📌 Tools & Libraries
 
@@ -44,5 +43,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kholay47/Kholay47/output/github-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Kholay47/Kholay47/output/github-snake-dark.svg" alt="snake gif" />
 </div>
