@@ -42,8 +42,9 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Kholay47&style=for-the-badge)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kholay47/Kholay47/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=Kholay47&style=for-the-badge)
