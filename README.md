@@ -2,7 +2,7 @@
 
 ## 📊 Data Science, Analysis and Visualization
 
-- Welcome to my page! I'm into data analysis and visualization.
+- Welcome to my page! I'm into data science, AI model development, data analysis and visualization.
 
 ---
 
