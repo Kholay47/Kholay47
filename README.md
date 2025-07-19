@@ -1,6 +1,6 @@
 <h1 align="center"> Aayush Kholay
 
-## 📊 Data Analysis and Visualization
+## 📊 Data Science, Analysis and Visualization
 
 - Welcome to my page! I'm into data analysis and visualization.
 
