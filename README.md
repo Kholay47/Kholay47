@@ -1,10 +1,8 @@
-<img src="https://komarev.com/ghpvc/?username=Kholay47&style=for-the-badge&abbreviated=true&color=green"/>
-
-<h1 align="center">Aayush Kholay</h1>
-
 <p align="center">
-Machine Learning • Deep Learning • Generative AI • Computer Vision • Intelligent AI Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F7FF,100:7F00FF&text=Aayush%20Kholay&fontSize=42&fontColor=ffffff&desc=AI%20%7C%20Deep%20Learning%20%7C%20Generative%20AI%20%7C%20Computer%20Vision&descSize=20&descAlignY=65"/>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Kholay47&style=for-the-badge&abbreviated=true&color=green"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=780&lines=Building+AI+%26+GenAI+Systems;Training+Deep+Learning+Models;Designing+LLM+Workflows;Running+AI+Experiments;Turning+Data+into+Intelligence"/>
@@ -282,3 +280,7 @@ Performance experiments across ML models
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=0:00F7FF,100:7F00FF" />
+</p>
+
