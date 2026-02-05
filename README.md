@@ -38,113 +38,128 @@ Focused on:
 ## Tech Stack
 <p align="center">
 
-<!-- Core -->
+<!-- Python -->
+<a href="https://www.python.org" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
+</a>
 
-<!-- ML -->
+<!-- Scikit-learn -->
+<a href="https://scikit-learn.org" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
+</a>
 
-<!-- Deep Learning -->
+<!-- PyTorch -->
+<a href="https://pytorch.org" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48"/>
+</a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48"/>
+</a>
 
-<!-- Computer Vision -->
+<!-- OpenCV -->
+<a href="https://opencv.org" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48"/>
+</a>
 
-<!-- NLP / Transformers -->
+<!-- HuggingFace / Transformers -->
+<a href="https://huggingface.co/docs/transformers" target="_blank">
 <img src="https://cdn.simpleicons.org/huggingface" height="48"/>
+</a>
+
+<!-- spaCy -->
+<a href="https://spacy.io" target="_blank">
 <img src="https://cdn.simpleicons.org/spacy" height="48"/>
+</a>
 
-<!-- GenAI Frameworks -->
+<!-- LangChain -->
+<a href="https://python.langchain.com" target="_blank">
 <img src="https://cdn.simpleicons.org/langchain" height="48"/>
-<img src="https://cdn.simpleicons.org/openai" height="48"/>
+</a>
 
-<!-- Vector DB -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-<!-- 
-<img src="https://cdn.simpleicons.org/chroma" height="48"/>
--->
+<!-- OpenAI -->
+<a href="https://platform.openai.com/docs">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="48"/>
+</a>
+
+
+<!-- Vector DB (You used MySQL logo — keeping as-is) -->
+<a href="https://www.mysql.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/>
+</a>
 
 </p>
 
-<!--
 
-### 🐍 Core Language
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-</p>
-
----
-
-### 🤖 Machine Learning
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
-</p>
-
----
-
-### 🔥 Deep Learning Frameworks
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50"/>
-</p>
-
----
-
-### 👁 Computer Vision
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
-</p>
-
----
-
-### ✨ Generative AI & LLM Platforms
-
-<p align="center">
-<img src="https://cdn.simpleicons.org/openai" height="50"/>
-<img src="https://cdn.simpleicons.org/huggingface" height="50"/>
-<img src="https://cdn.simpleicons.org/langchain" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="50"/>
-</p>
-
--->
-
----
 
 ## Data Engineering & Visualization
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
-<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="50"/>
+<a href="https://pandas.pydata.org/docs/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+</a>
+
+<a href="https://numpy.org/doc/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+</a>
+
+<a href="https://matplotlib.org/stable/contents.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48"/>
+</a>
+
+<a href="https://plotly.com/python/" target="_blank">
+  <img src="https://cdn.simpleicons.org/plotly" height="48"/>
+</a>
 
 </p>
 
----
+
+
 
 ## Deployment And Deployment
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50"/>
+<!-- VS Code -->
+<a href="https://code.visualstudio.com/docs" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48"/>
+</a>
 
-<!-- Apps / Serving -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48"/>
+<!-- Jupyter -->
+<a href="https://docs.jupyter.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
+</a>
 
-<!-- Experiment Tracking -->
-<img src="https://cdn.simpleicons.org/mlflow" height="48"/>
+<!-- Git -->
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
+</a>
+
+<!-- Flask -->
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" height="48"/>
+</a>
+
+<!-- Streamlit -->
+<a href="https://docs.streamlit.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="48"/>
+</a>
+
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48"/>
+</a>
+
+<!-- MLflow -->
+<a href="https://mlflow.org/docs/latest/index.html" target="_blank">
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48"/>
+</a>
 
 </p>
 
@@ -264,7 +279,7 @@ Performance experiments across ML models
 <p align="center">
 
 <a href="https://github.com/kholay47" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
