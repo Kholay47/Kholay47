@@ -80,7 +80,7 @@ Focused on:
 
 <!-- OpenAI -->
 <a href="https://platform.openai.com/docs">
-  <img src="https://cdn.simpleicons.org/openai/412991" height="48"/>
+  <img src="https://cdn.simpleicons.org/openai" height="48"/>
 </a>
 
 
@@ -164,7 +164,7 @@ Focused on:
 </p>
 
 ---
-
+<!--
 ## Projects
 
 
