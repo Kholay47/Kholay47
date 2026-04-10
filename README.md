@@ -78,11 +78,6 @@ Focused on:
 <img src="https://cdn.simpleicons.org/langchain" height="48"/>
 </a>
 
-<!-- OpenAI -->
-<a href="https://platform.openai.com/docs">
-  <img src="https://cdn.simpleicons.org/openai" height="48"/>
-</a>
-
 
 <!-- Vector DB (You used MySQL logo — keeping as-is) -->
 <a href="https://www.mysql.com" target="_blank">
