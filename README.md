@@ -278,7 +278,7 @@ Performance experiments across ML models
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/aayushkholay" title="LinkedIn">
+<a href="https://www.linkedin.com/in/aayush-kholay" title="LinkedIn">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
